@@ -2,7 +2,7 @@
 
 
 - 🐯 I'm currently pursuing a Computer Science degree at Trinity University
-- In my spare time I have been configuring Neo Vim
+- In my spare time I have been configuring Neo Vim and building a compiler in GO
 <!--
 **wwelden/wwelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
