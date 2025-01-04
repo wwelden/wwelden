@@ -4,6 +4,8 @@
 - 🐯 I'm currently pursuing a Computer Science degree at Trinity University
 
 - In my spare time I have been configuring Neo Vim and building terminal games in GO
+
+- I am currently working on a compiler written in GO
   
 - Some of my favorite project I have worked on consist of:
   
