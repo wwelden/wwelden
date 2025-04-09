@@ -5,7 +5,7 @@
 
 - In my spare time I have been configuring Neo Vim and building terminal games in GO
 
-- I am currently working on a compiler written in GO and a Markdown parser written in TS
+- I am currently working on a compiler written in GO and a Markdown parser written in Rust
   
 - Some of my favorite project I have worked on consist of:
   
