@@ -3,9 +3,9 @@
 
 - 🐯 I'm currently pursuing a Computer Science degree at Trinity University
 
-- In my spare time I have been configuring Neo Vim and building terminal games in GO
+- In my spare time I have been learning Neo Vim (vim motions), doing rustlings and reading the Rust book
 
-- I am currently working on a compiler written in GO and a Markdown parser written in Rust
+- I am currently working on a compiler written in GO, a Redis also in GO, and my own Git in Rust
   
 - Some of my favorite project I have worked on consist of:
   
@@ -16,6 +16,10 @@
   - Blue dog shopping, A pet store website written in JS 📌
     
   - Chefs👨🏻‍🍳 vs. Aliens 🛸, a game written in C# using Unity 📌
+
+  - Keystroke, a mardown compiler 📌
+
+  - Carbon, A programming language written in Haskell and Rust 📌
  
   
 - I am profiecient in Haskell <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="15" height="15" /></a>, 
