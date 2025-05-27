@@ -17,7 +17,7 @@
     
   - Chefs👨🏻‍🍳 vs. Aliens 🛸, a game written in C# using Unity 📌
 
-  - Keystroke, a mardown compiler 📌
+  - Keystroke, a mardown compiler written in Typescript📌
 
   - Carbon, A programming language written in Haskell and Rust 📌
  
