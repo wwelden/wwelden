@@ -20,6 +20,8 @@
   - Keystroke, a mardown compiler written in Typescript📌
 
   - Carbon, A programming language written in Haskell and Rust 📌
+
+  - Darkweb crawler written in Python to securely search for a users leaked data📌
  
   
 - I am profiecient in Haskell <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="15" height="15" /></a>, 
