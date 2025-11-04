@@ -19,8 +19,6 @@
 
   - Keystroke, a mardown compiler written in Typescript📌
 
-  - Carbon, A programming language written in Haskell and Rust 📌
-
   - Darkweb crawler written in Python to securely search for a users leaked data📌
  
   
