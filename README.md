@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- 🐯 I'm currently pursuing a Computer Science degree at Trinity University
+- 🐯 I'm a recent graduate with a Computer Science degree from Trinity University
 
-- In my spare time I have been learning Neo Vim (vim motions), doing rustlings and reading the Rust book
+- In my spare time I try to learn as much as I can about how things work.
 
 - I am currently working on a compiler written in GO, a Redis also in GO, and my own Git in Rust
   
