@@ -5,7 +5,7 @@
 
 - In my spare time I try to learn as much as I can about how things work.
 
-- I am currently working on a compiler written in GO, a Redis also in GO, and my own Git in Rust
+- I am currently working on a compiler written in GO, a game engine in Java, and I am learning Zig.
   
 - Some of my favorite project I have worked on consist of:
   
