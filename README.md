@@ -43,10 +43,10 @@ Compiles low-level ILOC intermediate representation into optimized assembly. Imp
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### [⌨️ Keystroke](https://github.com/wwelden/Keystroke)
-A Markdown-to-HTML compiler with 103 tests across a full lexer → parser → AST → renderer pipeline. Supports math expressions, checklists, and standard Markdown elements.
+### [⌨️ Keystroke2](https://github.com/wwelden/Keystroke2)
+A multi-format document converter written in Go with a web frontend. Supports six conversion paths between Markdown, HTML, and LaTeX — full lexer → parser → AST → renderer pipeline.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### [⚔️ Chefs Vs. Aliens](https://github.com/JorgeFLarach/CVA)
 Parody tower-defense game in Unity, Plants vs. Zombies-inspired. Served as **lead developer** — designed all battleground mechanics, graphics, and UI, and managed the team's Git workflow.
