@@ -13,8 +13,8 @@
 
 Computer Science graduate from **Trinity University** (Dec 2025) heading into the industry as a **backend developer**. I'm drawn to the parts of software where you have to really understand what's happening underneath — compilers, interpreters, parsers, and systems. Strongest in **Go, C#, and Haskell**, with working fluency across TypeScript, Java, Scala, C++, JavaScript, and Python.
 
-- 🔭 Currently building: [DataTrader](https://github.com/wwelden/DataTrader) — a Go + HTMX trading journal — and a Go WebSocket chat server
-- 🌱 Currently learning: distributed systems, message queues, and containerization
+- 🔭 Currently building: a Go WebSocket chat server
+- 🌱 Currently learning: Go concurrency and real-time server patterns
 - 🎯 Looking for: **junior backend developer** roles
 - ⚡ Fun fact: I designed a programming language where every statement ends with `innit`
 - 🏃 Ran Cross Country and Track at Trinity (2021–2024)
