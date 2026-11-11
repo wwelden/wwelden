@@ -2,7 +2,7 @@
 
 Software engineer based in Atlanta, GA, focused on compilers, systems, and building things end to end. B.S. in Computer Science from Trinity University (Dec 2025). Open to software engineering roles.
 
-[Portfolio](https://wwelden.dev) · [LinkedIn](https://www.linkedin.com/in/wwelden/)
+[Portfolio](https://wwelden.dev) · [LinkedIn](https://www.linkedin.com/in/wwelden/) · [Resume](Welden_Resume.pdf)
 
 ## Projects
 
