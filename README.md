@@ -17,6 +17,6 @@ I also build small tools I use myself, like [MyInvoice](https://github.com/wweld
 
 ## Skills
 
-**Languages:** Go, C#, Haskell, TypeScript, JavaScript, Java, Scala, C++, Python, C
+**Languages:** TypeScript, JavaScript, Python, Go, C#, Haskell,  Java, Scala
 
 **Tools:** Git, GitHub Actions, Bash, Unity, Google Cloud, Vercel, Convex, Clerk
